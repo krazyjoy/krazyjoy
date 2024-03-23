@@ -1,5 +1,5 @@
 ### Hi there 👋
-<div align="center">
+<div align="center" style="max-width: 700px;">
     <h1>
         <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=7B68EE&center=true&vCenter=true&width=435&lines=I'm+ChihYi;This+is..;..my+Github..;" alt="Typing SVG"/>
     </h1>
@@ -7,7 +7,7 @@
     <p>I Am A Computer Science Master Student. Specializing in backend and cloud development. I enjoy listen to KPOP music.</p>
 </div>
 
-<div align="center">
+<div align="center" style="max-width: 700px; margin: 15px;">
    <h2 style="display: flex; justify-content: center; align-items:center;" class="section-heading">
       <img src="hacker.png" style="width: 64px; height: 64px; margin-right: 15px;"> 
          Programming Languages
@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
 </div>
 
-<div align="center">
+<div align="center" style="max-width: 700px; margin: 15px;">
    <h2 style="display: flex; justify-content: center; align-items: center;" class="section-heading">
       <img src="cloud_service.png" style="width: 64px; height: 64px; margin-right: 15px;"> 
     Cloud Technologies
@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </div>
 
-<div align="center">
+<div align="center" style="max-width: 700px; margin: 15px;">
    <h2 style="display: flex; justify-content: center; align-items: center;" class="section-heading">
       <img src="framework.png" style="width: 64px; height: 64px; margin-right: 15px">
          Frameworks
@@ -53,7 +53,7 @@
 </div>
 
 <!--Stats Section-->
-<div align="center">
+<div align="center" style="max-width: 700px; margin: 20px;">
    <h2 style="display: flex; justify-content: center; align-items: center;" class="section-heading">
       <img src="stats.png" style="width: 64px; height: 64px; margin-right: 15px;"> 
          GitHub Stats
@@ -61,7 +61,7 @@
    <p>Peek into my GitHub stats to see how I juggle code. Dive in to check out the milestones of digital journey.</p>
    <div style="display: flex; flex-wrap: wrap; justify-content: center; width: 100%; height: 100%;">
       <div style="display: flex; margin-left: 20px;">
-         <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=krazyjoy&theme=github_dark" alt="ChihYi's GitHub Stats" style="width: 100%; height: 100%;">
+         <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=krazyjoy&theme=github_dark" alt="ChihYi's GitHub Stats" style="max-width: 100%;">
       </div>
       <div style="display:flex; margin-left: 20px;">
          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=krazyjoy&theme=github_dark" style="max-width: 100%;">
@@ -69,7 +69,7 @@
    </div>
 </div>
 
-<div align="center">
+<div align="center" style="max-width: 700px; margin: 30px;">
    <h2 style="display: flex; justify-content: center; align-items: center;" class="section-heading">
       <img src="https://th.bing.com/th/id/OIP.8mYpcWrlTWieOg5iFpp67AHaHa?rs=1&pid=ImgDetMain" style="width: 64px; height:64px; margin-right: 10px">Github Commits
    </h2>
