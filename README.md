@@ -1,19 +1,12 @@
 ### Hi there 👋
 <div align="center">
     <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=BFB9FA&center=true&vCenter=true&width=435&lines=I'm+ChihYi;This+is..;..my+Github..;" alt="Typing SVG"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=7B68EE&center=true&vCenter=true&width=435&lines=I'm+ChihYi;This+is..;..my+Github..;" alt="Typing SVG"/>
     </h1>
-    <h2>🚀 About Me</h2>
-    <p>I'm a [Your Job Title] specializing in [Your Specialization]. I enjoy [hobbies/interests].</p>
+    <h2 style="font-size: 36px;">🚀 About Me</h2>
+    <p>I Am A Computer Science Master Student. Specializing in backend and cloud development. I enjoy listen to KPOP music.</p>
 </div>
-<div align="center">
-   <h2 style="display: flex; justify-content: center; align-items: center;">
-      <img src="https://th.bing.com/th/id/OIP.8mYpcWrlTWieOg5iFpp67AHaHa?rs=1&pid=ImgDetMain" style="width: 64px; height:64px; margin-right: 10px">Github Commits
-   </h2>
-    <p>This section highlights my daily activity, showcasing the repositories I am currently working on. Each commit represents progress or fixes to ongoing projects, reflecting my commitment to continuous improvement and collaborative development. Dive into the commit messages for insights into what I've been up to!</p>
-   <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
-   <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
-</div>
+
 
 <h2 style="display: flex; justify-content: center; align-items:center;" class="section-heading">
    <img src="hacker.png" style="width: 64px; height: 64px; margin-right: 15px;"> 
@@ -55,11 +48,40 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
 </div>
+
+<!--Stats Section-->
 <div align="center">
-<h2 style="display: flex; justify-content: center; align-items: center;" class="section-heading">
-   <img src="connections.png" style="width: 64px; height: 64px; margin-right: 15px">
-      Connections
-</h2>
+   <h2 style="display: flex; justify-content: center; align-items: center;" class="section-heading">
+      <img src="stats.png" style="width: 64px; height: 64px; margin-right: 15px;"> 
+         GitHub Stats
+   </h2>
+   <p>Peek into my GitHub stats to see how I juggle code. Dive in to check out the milestones of digital journey.</p>
+   <div style="display: flex; flex-wrap: wrap; justify-content: center">
+      <div style="display: flex; margin-left: 20px;">
+         <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=krazyjoy&theme=github_dark" alt="ChihYi's GitHub Stats" style="width: 100%; height: 100%;">
+      </div>
+      <div style="display:flex; margin-left: 20px;">
+         <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=krazyjoy&theme=github_dark" style="max-width: 100%;">
+      </div> 
+   </div>
+</div>
+
+<div align="center">
+   <h2 style="display: flex; justify-content: center; align-items: center;" class="section-heading">
+      <img src="https://th.bing.com/th/id/OIP.8mYpcWrlTWieOg5iFpp67AHaHa?rs=1&pid=ImgDetMain" style="width: 64px; height:64px; margin-right: 10px">Github Commits
+   </h2>
+    <p>This section highlights my daily activity, showcasing the repositories I am currently working on. Each commit represents progress or fixes to ongoing projects, reflecting my commitment to continuous improvement and collaborative development. Dive into the commit messages for insights into what I've been up to!</p>
+      <img src="https://raw.githubusercontent.com/krazyjoy/krazyjoy/output/github-contribution-grid-snake.svg">
+      <img src="https://raw.githubusercontent.com/krazyjoy/krazyjoy/output/github-contribution-grid-snake-dark.svg">
+</div>
+
+
+<div align="center">
+   <h2 style="display: flex; justify-content: center; align-items: center;" class="section-heading">
+      <img src="connections.png" style="width: 64px; height: 64px; margin-right: 15px">
+         Connections
+   </h2>
+    <p>Follow my LinkedIn to be part of my social network.</p>
     <a href="https://www.linkedin.com/in/chih-yi-huang-30a227183/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
