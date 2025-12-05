@@ -68,6 +68,21 @@
       </div> 
    </div>
 </div>
+<div style="max-width: 700px; margin: 30px;">
+   <h2 style="display: flex; justify-content: center; align-items: center;" class="section-heading">
+      <img src="https://github.com/user-attachments/assets/27ab9644-f179-46fb-a07e-33f8464ec752" style="width: 64px; height:64px; margin-right: 10px;">
+      Working Experience
+
+   </h2>
+
+   <ul style="text-align: left; max-width: 600px; margin: 20px auto; line-height: 1.7;">
+      <li> TSMC TSID/TDAD fulltime engineer: 12/29/2025~now </li>
+      <li> ASU Cybersecurity Analyst Apprenticeship : 7/21/2025 ~ 12/07/2025 </li>
+      <li> ASU GSA : 1/6/2025 ~ 5/11/2025 </li>
+      <li> ITRI Information and Communication Research Laboratories (工研院資通所）Machine Learning Intern: 5/27/2024 ~ 8/30/2024 </li>
+      <li> Uber Software Engineer Intern (Hongkong) : 9/09/2023 ~ 12/12/2023 </li>
+   </ul>
+</div>
 
 <div align="center" style="max-width: 700px; margin: 30px;">
    <h2 style="display: flex; justify-content: center; align-items: center;" class="section-heading">
